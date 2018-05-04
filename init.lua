@@ -1,0 +1,5 @@
+local path = minetest.get_modpath("ponti")
+dofile(path.."/ponte.lua")
+dofile(path.."/craftlastra.lua")
+dofile(path.."/craft_lastra.lua")
+dofile(path.."/craft.lua")
